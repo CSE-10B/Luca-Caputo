@@ -9,7 +9,7 @@ print("1. Turn on the Oven")
 ready_to_eat = False 
 
 if ready_to_eat == False:
-    print("2. Has 4 Hours passed OR has the oven reached 180 degrees? No.")
+    print("2. Has 4 Hours passed OR has the oven reached 180 degrees?")
     print("3. If not, keep roasting turkey")
 
 ready_to_eat = True
